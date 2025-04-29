@@ -157,4 +157,5 @@ public class InvalidCoreClientTest extends ActiveMQTestBase {
       Wait.assertEquals(1, connFailure::get);
 
    }
+   //comment
 }
